@@ -1,0 +1,19 @@
+#mb {
+  color: var(--blue);
+}
+
+em {
+  color: blueviolet;
+  font-style: normal;
+  font-size: xx-large;
+}
+
+#grph {
+}
+
+#skillsbtn {
+  background-color: #343a40;
+  color: white;
+  border-color: #343a40;
+}
+
